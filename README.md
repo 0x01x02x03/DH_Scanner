@@ -11,6 +11,4 @@ A simple PHP program dedicated to the web vulnerabilities with the following opt
 [+] Locator IP and DNS<br>
 [+] Encoders for Base64, HEX and MD5<br>
 
-Video :
-
-https://www.youtube.com/watch?v=UOIjf5ms1Ps
+Video : https://www.youtube.com/watch?v=JsJ0pvvJGqA
